@@ -50,4 +50,4 @@ Disallow:/*&format=ical
 Disallow:/*?reversePaginate=*
 Disallow:/*&reversePaginate=*
 
-Sitemap: http://mileswintner.com/sitemap.xml
+Sitemap: https://ajitsinh.vercel.app/sitemap.xml
